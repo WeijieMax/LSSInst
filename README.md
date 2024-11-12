@@ -2,7 +2,7 @@
   <h1 align="center">LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation
   </h1>
   <p align="center">
-    3DV, 2025
+    International Conference on 3D Vision (3DV), 2025
     <br />
     <a href="https://WeijieMax.github.io/"><strong>Weijie Ma</strong></a>,
     <a href="https://github.com/Jingwei-Jiang/"><strong>Jingwei Jiang</strong></a>,
@@ -14,7 +14,7 @@
 <div align="center">
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-[![arXiv](https://img.shields.io/badge/arXiv-0000.00000-red)](https://arxiv.org/abs/)
+[![arXiv](https://img.shields.io/badge/arXiv-2411.06173-red)](https://arxiv.org/abs/2411.06173)
 
 </div>
 
