@@ -5,8 +5,8 @@
     International Conference on 3D Vision (3DV), 2025
     <br />
     <a href="https://WeijieMax.github.io/"><strong>Weijie Ma</strong></a>,
-    <a href="https://github.com/Jingwei-Jiang/"><strong>Jingwei Jiang</strong></a>,
-    <a href="https://github.com/Young98CN/"><strong>Yang Yang</strong></a>,
+    <a href="https://jingwei-jiang.github.io/"><strong>Jingwei Jiang</strong></a>,
+    <a href="https://young98cn.github.io/"><strong>Yang Yang</strong></a>,
     <a href="https://lovesnowbest.site/"><strong>Zehui Chen</strong></a>,
     <a href="https://scholar.google.com/citations?user=FaOqRpcAAAAJ"><strong>Hao Chen</strong></a>
   </p>
