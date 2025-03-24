@@ -26,14 +26,15 @@ A novel and effective exploration of geometric modeling with intance representat
 
 ### Code Tutorial
 
-Coming soon
+Coming soon (approximately on July 2025 for code organization and if there are further needs before that, please feel free to email or open an issue)
+
+
 
 ### 
 
 ## Citation
 
-If you find our work useful for your project, please consider citing our paper:
-
+If this work is helpful for your research, please consider citing our paper:
 
 ```bibtex
 @article{lssinst,
