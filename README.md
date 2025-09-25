@@ -2,7 +2,7 @@
   <h1 align="center">LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation
   </h1>
   <p align="center">
-    <a href="https://openreview.net/forum?id=MaN2x3O2Rk">Paper link</a> in
+    <a href="https://ieeexplore.ieee.org/document/11125638/">Paper link</a> in
     International Conference on 3D Vision (3DV), 2025
     <br />
     <a href="https://WeijieMax.github.io/"><strong>Weijie Ma</strong></a>,
